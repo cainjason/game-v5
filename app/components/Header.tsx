@@ -4,7 +4,7 @@ import Link from 'next/link';
 
 function Header() {
   return (
-    <header className='flex items-center justify-around bg-gradient-to-r from-blue-500'>
+    <header className='shadow-lg shadow-cyan-500/50 flex items-center justify-around bg-gradient-to-r from-blue-500'>
       
       <MovieIcon className='cursor-pointer hover:bg-blue-200 flex justify-end mr-5  ml-2 h-9 w-9' />
       
