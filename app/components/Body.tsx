@@ -2,7 +2,7 @@
 
 function Body() {
   return (
-    <body>
+    <body className="h-full w-full">
 			Body
     </body>
   )
